@@ -8,7 +8,7 @@ namespace Jenkins
             string Output = "";
             for(int i = 0; i <= times; i++)
             {
-                Output = "jenkinpass";
+                Output = "jenkinspass";
             }
             return Output;
             
